@@ -1,5 +1,5 @@
 <template>
-  <h1>Ação</h1>
+  <h1>AÃ§Ã£o</h1>
 </template>
 
 <script>
