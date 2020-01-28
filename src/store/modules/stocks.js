@@ -14,7 +14,6 @@ export default{
       commit()
     },
     initStocks({ commit }){
-      console.log('initStocks')
       commit('setStocks', stocks)
     }
   },
